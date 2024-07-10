@@ -10,3 +10,4 @@ python-dotenv
 opencv-python>=4.8.1
 pandas
 PyGetWindow
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
